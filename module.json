@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "auto-cutscene",
+    "author": "Tsunpot/Baldera-Mods",
+    "description": "Automatically cancels all cutscene movies",
+    "supportUrl": "",
+    "servers": [""]
+}

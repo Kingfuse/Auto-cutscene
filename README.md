@@ -1,12 +1,8 @@
 # auto-cutscene
 tera-proxy module to automatically skip cutscenes
 
-## Dependency
-- `command` module
-
 ## Usage
-- __`skip`__
-  - Toggle on/off
+- __`skip`__   - Toggle on/off
 
 ## Config
 - __`enable`__
